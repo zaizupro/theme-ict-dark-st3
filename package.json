@@ -1,0 +1,17 @@
+{
+	"name": "theme-ic-dark-st3",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
+	"publisher": "zaizupro",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "industrial-coding st3 Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/industrial-coding-st3-dark-color-theme.json"
+			}
+		]
+	}
+}
